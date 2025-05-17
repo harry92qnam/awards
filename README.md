@@ -2,15 +2,25 @@
 
 Hi there👋 There are several depictions of my accomplishments throughout the years.
 
+## Bachelor's degree with a very good grade.
+<p align="center">
+  <img src="img/DegreeBachelor.jpg" width="100%" title="Very Good degree of bachelor%">
+</p>
+
+## Academic Transcript - GPA: 8.46
+<p align="center">
+  <img src="img/transcript.jpg" width="100%" title="academic transcript%">
+</p>
+
 ## 100% scholarship at FPT University | Nov 2020 - Dec 2024
 <p align="center">
   <img src="img/Scholarship.jpg" width="100%" title="Scholarship 100%">
 </p>
 
-## Honorable Student in Fall 2024 | Sep - Dec 2024 (still not received)
+## Honorable Student in Fall 2024 | Sep - Dec 2024
 
 <p align="center">
-  <img src="img/Fall2024.png" width="100%" title="Honorable Student">
+  <img src="img/Fall2024.jpg" width="100%" title="Honorable Student">
 </p>
 
 ## Excellent Student in Summer 2024 (Top 100 Most Outstanding Students) | Apr - Aug 2024
